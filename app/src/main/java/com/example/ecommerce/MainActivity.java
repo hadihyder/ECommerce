@@ -44,12 +44,12 @@ public class MainActivity extends AppCompatActivity {
         password= (EditText)findViewById(R.id.editTextPassword);
 
         signin(username.getText().toString() , password.getText().toString());
-//        {
+        {
 //           Toast toast = Toast.makeText(this,"Logged In Successfully",Toast.LENGTH_SHORT);
 //           toast.show();
 //           Intent intent= new Intent(this,Register.class);
 //           startActivity(intent);
-//        }
+        }
 
     }
 
