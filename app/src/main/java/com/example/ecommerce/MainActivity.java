@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
 //           toast.show();
 //           Intent intent= new Intent(this,Register.class);
 //           startActivity(intent);
-///
         }
 
     }
